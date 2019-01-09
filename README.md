@@ -1,5 +1,8 @@
 # IPRACTICEANALYTICS
 
+# Watch this before working in the Challenge
+[Challenge Introduction Video](https://goo.gl/forms/MzlvOWpjhLTagUdD3?platform=github)
+
 [SUBMIT YOUR Solutions HERE](https://goo.gl/forms/MzlvOWpjhLTagUdD3?platform=github)
 
 [Subscribe to my emails to receive solutions videos](https://funxexcel.com?platform=github)
@@ -19,3 +22,6 @@
 
 ### Submission Slide Example: 
 ![alt text](https://github.com/FunXExcel/IPRACTICEANALYTICS/blob/master/SubmissionSlide.PNG "Use this slide to submit your solution")
+
+### Share it on LinkedIN: 
+![alt text](https://github.com/FunXExcel/IPRACTICEANALYTICS/blob/master/ShareSlide.PNG "Share your output on LinkedIN")
