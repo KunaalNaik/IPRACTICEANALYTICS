@@ -16,3 +16,6 @@
 
 ### Challenge4: 
 ![alt text](https://github.com/FunXExcel/IPRACTICEANALYTICS/blob/master/Challenge4.PNG "Advanced")
+
+### Submission Slide Example: 
+![alt text](https://github.com/FunXExcel/IPRACTICEANALYTICS/blob/master/SubmissionSlide.PNG "Use this slide to submit your solution")
